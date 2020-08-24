@@ -1,0 +1,2 @@
+# ama
+GitHub Pages
